@@ -1,1 +1,8 @@
+.cards{
+    display: flex;
+gap: 20px;
+}
 
+.card{
+    background-color: red;
+}
